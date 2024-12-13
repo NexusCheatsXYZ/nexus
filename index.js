@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Watching discord.gg/bo6store", "Streaming discord.gg/bo6store"];
+const statusMessages = ["Watching discord.gg/aimlock", "Streaming discord.gg/aimlock"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
