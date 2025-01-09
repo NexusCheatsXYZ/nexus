@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Purchase Divine AI Fr Fr!", "Fortnite Made Easy #Divine!"];
+const statusMessages = ["The Best Game Cheats & Accounts!", "The Best Game Cheats & Accounts!"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
